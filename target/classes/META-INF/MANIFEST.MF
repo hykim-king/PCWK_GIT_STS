@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: aprk4
 Build-Jdk: 1.8.0_291
+=======
+Built-By: kimsh
+Build-Jdk: 1.8.0_281
+>>>>>>> b6e74689a9ee74b4c157a5c6b4211e687e45399f
 Created-By: Maven Integration for Eclipse
 
